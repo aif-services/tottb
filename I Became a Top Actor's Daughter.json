@@ -1,8 +1,17 @@
 {
   "title": "I Became a Top Actor's Daughter",
-  "description": "",
+  "description": "Lumin, a fifth-grader, is abandoned by her father after her mother passes away from cancer. She discovers that her biological father is popular actor Jung Ha-Jin, but Jung Ha-Jin rejects her. Desperate to be truly loved by her father, Lumin becomes a child actor, determined to prove her worth.",
   "artist": "Maro (마로)",
   "author": "Maro (마로)",
-  "cover": "",
-  "chapters": {}
+  "cover": "https://cdn.mangaupdates.com/image/i506973.jpg",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1766039584",
+      "groups": {
+        "at its finest": "/proxy/api/imgur/chapter/ugRHILY"
+      }
+    }
+  }
 }
