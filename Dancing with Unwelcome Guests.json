@@ -4,14 +4,5 @@
   "artist": "HongJa (홍자)",
   "author": "HongJa (홍자)",
   "cover": "https://cdn.mangaupdates.com/image/i402558.jpg",
-  "chapters": {
-    "1": {
-      "title": "1",
-      "volume": "1",
-      "last_updated": "1766350473",
-      "groups": {
-        "at its finest": "/proxy/api/imgur/chapter/mVgcatP"
-      }
-    }
-  }
+  "chapters": {}
 }
